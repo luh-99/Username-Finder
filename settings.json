@@ -1,7 +1,7 @@
 {
     "Webhook": {
-        "Enabled": false,
-        "Url": "webhook url here"
+        "Enabled": true,
+        "Url": "https://discord.com/api/webhooks/1359210789839437894/_LOniMn2ChEO25QBXENP2UrLA9cO-ZDUsfLBqpD1XILuTbYRPvZDSLrLgDR6DNKNsS-c"
     },
 
     "Min_length": 3,
